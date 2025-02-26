@@ -890,7 +890,7 @@ MonoBehaviour:
   m_LightType: 4
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
-  m_Color: {r: 0.6132076, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.6698113, g: 0, b: 0.5682916, a: 1}
   m_Intensity: 2.25
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
@@ -64101,6 +64101,75 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1001 &3354640004595994879
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1208597106675164723, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: CollisionModule.maxKillSpeed
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7165406
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0070228847
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.6971164
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.023431323
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 1.295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 88.397
+      objectReference: {fileID: 0}
+    - target: {fileID: 1916441214365794085, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -2.486
+      objectReference: {fileID: 0}
+    - target: {fileID: 2875582748738905759, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: m_Name
+      value: BloodSplash
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516797168258203173, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: CollisionModule.type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516797168258203173, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
+      propertyPath: CollisionModule.m_Bounce.scalar
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 71ed2a51b96b7bd45a05264c78d36db4, type: 3}
 --- !u!1001 &3414899439459330726
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -66448,3 +66517,4 @@ SceneRoots:
   - {fileID: 1515271486384184660}
   - {fileID: 5868686375711000876}
   - {fileID: 25769980}
+  - {fileID: 3354640004595994879}
