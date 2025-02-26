@@ -1,0 +1,7111 @@
+fileFormatVersion: 2
+guid: c8bd3b9187a34c949b4e39d1e5503e2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8551121037178952313
+    second: Blood-Splatter-PNG-Photo_0
+  - first:
+      213: -505223001192459564
+    second: Blood-Splatter-PNG-Photo_1
+  - first:
+      213: 1376393177633860487
+    second: Blood-Splatter-PNG-Photo_2
+  - first:
+      213: -4240352953975684234
+    second: Blood-Splatter-PNG-Photo_3
+  - first:
+      213: 9198114961783101055
+    second: Blood-Splatter-PNG-Photo_4
+  - first:
+      213: 8448152828508621137
+    second: Blood-Splatter-PNG-Photo_5
+  - first:
+      213: -1244728874933206567
+    second: Blood-Splatter-PNG-Photo_6
+  - first:
+      213: 4423531710808878942
+    second: Blood-Splatter-PNG-Photo_7
+  - first:
+      213: -6739302143240201422
+    second: Blood-Splatter-PNG-Photo_8
+  - first:
+      213: 3623303048773480519
+    second: Blood-Splatter-PNG-Photo_9
+  - first:
+      213: 7072360338732934336
+    second: Blood-Splatter-PNG-Photo_10
+  - first:
+      213: -7192059101879773989
+    second: Blood-Splatter-PNG-Photo_11
+  - first:
+      213: -5656405219716966231
+    second: Blood-Splatter-PNG-Photo_12
+  - first:
+      213: -6914970750804673938
+    second: Blood-Splatter-PNG-Photo_13
+  - first:
+      213: -5450480655863461053
+    second: Blood-Splatter-PNG-Photo_14
+  - first:
+      213: 451162820001008083
+    second: Blood-Splatter-PNG-Photo_15
+  - first:
+      213: 7132718197959781870
+    second: Blood-Splatter-PNG-Photo_16
+  - first:
+      213: -7494259571107618308
+    second: Blood-Splatter-PNG-Photo_17
+  - first:
+      213: -2451206749813417755
+    second: Blood-Splatter-PNG-Photo_18
+  - first:
+      213: -1058428298189088650
+    second: Blood-Splatter-PNG-Photo_19
+  - first:
+      213: -8340549071634236008
+    second: Blood-Splatter-PNG-Photo_20
+  - first:
+      213: -8562891851199353175
+    second: Blood-Splatter-PNG-Photo_21
+  - first:
+      213: -523114832554453084
+    second: Blood-Splatter-PNG-Photo_22
+  - first:
+      213: -904168428394543535
+    second: Blood-Splatter-PNG-Photo_23
+  - first:
+      213: 7464160672601686815
+    second: Blood-Splatter-PNG-Photo_24
+  - first:
+      213: 8172899327959749273
+    second: Blood-Splatter-PNG-Photo_25
+  - first:
+      213: 852998628391481096
+    second: Blood-Splatter-PNG-Photo_26
+  - first:
+      213: -8170904186975359763
+    second: Blood-Splatter-PNG-Photo_27
+  - first:
+      213: 8775951925729683024
+    second: Blood-Splatter-PNG-Photo_28
+  - first:
+      213: -4359240229154484370
+    second: Blood-Splatter-PNG-Photo_29
+  - first:
+      213: 3177752289696431402
+    second: Blood-Splatter-PNG-Photo_30
+  - first:
+      213: 6879054744677078797
+    second: Blood-Splatter-PNG-Photo_31
+  - first:
+      213: -2127533534292121129
+    second: Blood-Splatter-PNG-Photo_32
+  - first:
+      213: -3954363247578170825
+    second: Blood-Splatter-PNG-Photo_33
+  - first:
+      213: 711938759829580300
+    second: Blood-Splatter-PNG-Photo_34
+  - first:
+      213: -3911787146976971953
+    second: Blood-Splatter-PNG-Photo_35
+  - first:
+      213: 8365000612306772081
+    second: Blood-Splatter-PNG-Photo_36
+  - first:
+      213: -3549450878036133573
+    second: Blood-Splatter-PNG-Photo_37
+  - first:
+      213: -1286550508215265093
+    second: Blood-Splatter-PNG-Photo_38
+  - first:
+      213: -7632048706413820537
+    second: Blood-Splatter-PNG-Photo_39
+  - first:
+      213: 9188086970029987900
+    second: Blood-Splatter-PNG-Photo_40
+  - first:
+      213: 8313317490487836221
+    second: Blood-Splatter-PNG-Photo_41
+  - first:
+      213: 3356156917938197656
+    second: Blood-Splatter-PNG-Photo_42
+  - first:
+      213: -4242924622884840097
+    second: Blood-Splatter-PNG-Photo_43
+  - first:
+      213: 7356427192503361732
+    second: Blood-Splatter-PNG-Photo_44
+  - first:
+      213: -3903019466671668399
+    second: Blood-Splatter-PNG-Photo_45
+  - first:
+      213: -5348898268461808772
+    second: Blood-Splatter-PNG-Photo_46
+  - first:
+      213: 6110508813632436434
+    second: Blood-Splatter-PNG-Photo_47
+  - first:
+      213: 8287084303093545157
+    second: Blood-Splatter-PNG-Photo_48
+  - first:
+      213: -9182805975326292584
+    second: Blood-Splatter-PNG-Photo_49
+  - first:
+      213: -6267479960533173417
+    second: Blood-Splatter-PNG-Photo_50
+  - first:
+      213: 2635573688737106681
+    second: Blood-Splatter-PNG-Photo_51
+  - first:
+      213: 8768569238361797028
+    second: Blood-Splatter-PNG-Photo_52
+  - first:
+      213: 3483254381569467465
+    second: Blood-Splatter-PNG-Photo_53
+  - first:
+      213: -7050725800363514214
+    second: Blood-Splatter-PNG-Photo_54
+  - first:
+      213: -7701529833593529912
+    second: Blood-Splatter-PNG-Photo_55
+  - first:
+      213: 2494013831194336932
+    second: Blood-Splatter-PNG-Photo_56
+  - first:
+      213: -4767434640636321246
+    second: Blood-Splatter-PNG-Photo_57
+  - first:
+      213: 1666926944462084390
+    second: Blood-Splatter-PNG-Photo_58
+  - first:
+      213: -30048859830768833
+    second: Blood-Splatter-PNG-Photo_59
+  - first:
+      213: 4013400466028491036
+    second: Blood-Splatter-PNG-Photo_60
+  - first:
+      213: 4891163553258064781
+    second: Blood-Splatter-PNG-Photo_61
+  - first:
+      213: 2443993759585706873
+    second: Blood-Splatter-PNG-Photo_62
+  - first:
+      213: -7909364321790539353
+    second: Blood-Splatter-PNG-Photo_63
+  - first:
+      213: -812879622979563588
+    second: Blood-Splatter-PNG-Photo_64
+  - first:
+      213: -367746540732377284
+    second: Blood-Splatter-PNG-Photo_65
+  - first:
+      213: 6022778363292919210
+    second: Blood-Splatter-PNG-Photo_66
+  - first:
+      213: 461258116461548709
+    second: Blood-Splatter-PNG-Photo_67
+  - first:
+      213: 6004272051828389533
+    second: Blood-Splatter-PNG-Photo_68
+  - first:
+      213: 7439565113845837372
+    second: Blood-Splatter-PNG-Photo_69
+  - first:
+      213: 9059717580726242608
+    second: Blood-Splatter-PNG-Photo_70
+  - first:
+      213: 7534501323097395229
+    second: Blood-Splatter-PNG-Photo_71
+  - first:
+      213: 6492750537817176973
+    second: Blood-Splatter-PNG-Photo_72
+  - first:
+      213: 7988328307131342881
+    second: Blood-Splatter-PNG-Photo_73
+  - first:
+      213: 1648188114208799908
+    second: Blood-Splatter-PNG-Photo_74
+  - first:
+      213: 1577381731043335840
+    second: Blood-Splatter-PNG-Photo_75
+  - first:
+      213: -5893013671518002433
+    second: Blood-Splatter-PNG-Photo_76
+  - first:
+      213: 4836622457492325203
+    second: Blood-Splatter-PNG-Photo_77
+  - first:
+      213: -4265477466597599170
+    second: Blood-Splatter-PNG-Photo_78
+  - first:
+      213: -2503415331495834688
+    second: Blood-Splatter-PNG-Photo_79
+  - first:
+      213: -7161459954998717306
+    second: Blood-Splatter-PNG-Photo_80
+  - first:
+      213: -240514759382388090
+    second: Blood-Splatter-PNG-Photo_81
+  - first:
+      213: 1706484266392777576
+    second: Blood-Splatter-PNG-Photo_82
+  - first:
+      213: -5927864045720925125
+    second: Blood-Splatter-PNG-Photo_83
+  - first:
+      213: 5263546414458124222
+    second: Blood-Splatter-PNG-Photo_84
+  - first:
+      213: 3141247362820841269
+    second: Blood-Splatter-PNG-Photo_85
+  - first:
+      213: 3492206537778405977
+    second: Blood-Splatter-PNG-Photo_86
+  - first:
+      213: 6572369477613318528
+    second: Blood-Splatter-PNG-Photo_87
+  - first:
+      213: -2577819255962537806
+    second: Blood-Splatter-PNG-Photo_88
+  - first:
+      213: -1665184076753016879
+    second: Blood-Splatter-PNG-Photo_89
+  - first:
+      213: 2500966493384423296
+    second: Blood-Splatter-PNG-Photo_90
+  - first:
+      213: -3534312534569845778
+    second: Blood-Splatter-PNG-Photo_91
+  - first:
+      213: 3102485494285077119
+    second: Blood-Splatter-PNG-Photo_92
+  - first:
+      213: 5861085881626245137
+    second: Blood-Splatter-PNG-Photo_93
+  - first:
+      213: 9087145226974163694
+    second: Blood-Splatter-PNG-Photo_94
+  - first:
+      213: -1761570167858844065
+    second: Blood-Splatter-PNG-Photo_95
+  - first:
+      213: -2356232025045115678
+    second: Blood-Splatter-PNG-Photo_96
+  - first:
+      213: -6910560679899136508
+    second: Blood-Splatter-PNG-Photo_97
+  - first:
+      213: 6455674503691300838
+    second: Blood-Splatter-PNG-Photo_98
+  - first:
+      213: -293692635945923339
+    second: Blood-Splatter-PNG-Photo_99
+  - first:
+      213: -8120025150232051989
+    second: Blood-Splatter-PNG-Photo_100
+  - first:
+      213: 1512893836494078474
+    second: Blood-Splatter-PNG-Photo_101
+  - first:
+      213: 6468146339242790281
+    second: Blood-Splatter-PNG-Photo_102
+  - first:
+      213: -393923574421048295
+    second: Blood-Splatter-PNG-Photo_103
+  - first:
+      213: 2289877030880690448
+    second: Blood-Splatter-PNG-Photo_104
+  - first:
+      213: -7323604557349910450
+    second: Blood-Splatter-PNG-Photo_105
+  - first:
+      213: -5902395340808328500
+    second: Blood-Splatter-PNG-Photo_106
+  - first:
+      213: -2897774716663799143
+    second: Blood-Splatter-PNG-Photo_107
+  - first:
+      213: 4945401649240778423
+    second: Blood-Splatter-PNG-Photo_108
+  - first:
+      213: 806329788408922736
+    second: Blood-Splatter-PNG-Photo_109
+  - first:
+      213: -5706311410587831054
+    second: Blood-Splatter-PNG-Photo_110
+  - first:
+      213: 3813204602566077603
+    second: Blood-Splatter-PNG-Photo_111
+  - first:
+      213: 1283126018606340042
+    second: Blood-Splatter-PNG-Photo_112
+  - first:
+      213: -5095675347674489533
+    second: Blood-Splatter-PNG-Photo_113
+  - first:
+      213: -1978869256019504706
+    second: Blood-Splatter-PNG-Photo_114
+  - first:
+      213: 8293062534171854888
+    second: Blood-Splatter-PNG-Photo_115
+  - first:
+      213: 6112405320725212775
+    second: Blood-Splatter-PNG-Photo_116
+  - first:
+      213: -5259754332601500380
+    second: Blood-Splatter-PNG-Photo_117
+  - first:
+      213: -6334824545243528207
+    second: Blood-Splatter-PNG-Photo_118
+  - first:
+      213: 4335304266982576573
+    second: Blood-Splatter-PNG-Photo_119
+  - first:
+      213: -7415617972454273712
+    second: Blood-Splatter-PNG-Photo_120
+  - first:
+      213: 6201685134011468177
+    second: Blood-Splatter-PNG-Photo_121
+  - first:
+      213: 2872858684003846851
+    second: Blood-Splatter-PNG-Photo_122
+  - first:
+      213: -7751099132252707907
+    second: Blood-Splatter-PNG-Photo_123
+  - first:
+      213: -5624515391941059882
+    second: Blood-Splatter-PNG-Photo_124
+  - first:
+      213: -6061712322596912501
+    second: Blood-Splatter-PNG-Photo_125
+  - first:
+      213: 5599940933319517126
+    second: Blood-Splatter-PNG-Photo_126
+  - first:
+      213: 1783261071649762109
+    second: Blood-Splatter-PNG-Photo_127
+  - first:
+      213: 7029042266757411878
+    second: Blood-Splatter-PNG-Photo_128
+  - first:
+      213: 1619484584329069744
+    second: Blood-Splatter-PNG-Photo_129
+  - first:
+      213: 3610317401435484771
+    second: Blood-Splatter-PNG-Photo_130
+  - first:
+      213: -7792675010549774681
+    second: Blood-Splatter-PNG-Photo_131
+  - first:
+      213: 1180991142465991496
+    second: Blood-Splatter-PNG-Photo_132
+  - first:
+      213: 8019862135902185378
+    second: Blood-Splatter-PNG-Photo_133
+  - first:
+      213: 2929887154894158175
+    second: Blood-Splatter-PNG-Photo_134
+  - first:
+      213: -4983401355867035617
+    second: Blood-Splatter-PNG-Photo_135
+  - first:
+      213: 7583341632453627736
+    second: Blood-Splatter-PNG-Photo_136
+  - first:
+      213: -2826647960943952149
+    second: Blood-Splatter-PNG-Photo_137
+  - first:
+      213: -2192513345366491912
+    second: Blood-Splatter-PNG-Photo_138
+  - first:
+      213: 7200157479299010382
+    second: Blood-Splatter-PNG-Photo_139
+  - first:
+      213: 2538706104644712557
+    second: Blood-Splatter-PNG-Photo_140
+  - first:
+      213: -7108352964807617249
+    second: Blood-Splatter-PNG-Photo_141
+  - first:
+      213: -2046851839409393024
+    second: Blood-Splatter-PNG-Photo_142
+  - first:
+      213: 5132948516061523321
+    second: Blood-Splatter-PNG-Photo_143
+  - first:
+      213: -7690866722420991255
+    second: Blood-Splatter-PNG-Photo_144
+  - first:
+      213: 140091129361889505
+    second: Blood-Splatter-PNG-Photo_145
+  - first:
+      213: 3845144814485731701
+    second: Blood-Splatter-PNG-Photo_146
+  - first:
+      213: 7145326546570186018
+    second: Blood-Splatter-PNG-Photo_147
+  - first:
+      213: 8428485452779168729
+    second: Blood-Splatter-PNG-Photo_148
+  - first:
+      213: -1902980182881742564
+    second: Blood-Splatter-PNG-Photo_149
+  - first:
+      213: 7722486933849149033
+    second: Blood-Splatter-PNG-Photo_150
+  - first:
+      213: 52141310967417097
+    second: Blood-Splatter-PNG-Photo_151
+  - first:
+      213: 8655703985699596060
+    second: Blood-Splatter-PNG-Photo_152
+  - first:
+      213: -626320285108049351
+    second: Blood-Splatter-PNG-Photo_153
+  - first:
+      213: -8642166412033675510
+    second: Blood-Splatter-PNG-Photo_154
+  - first:
+      213: 7097923561739270881
+    second: Blood-Splatter-PNG-Photo_155
+  - first:
+      213: 6536614473402349437
+    second: Blood-Splatter-PNG-Photo_156
+  - first:
+      213: 6259704128222071869
+    second: Blood-Splatter-PNG-Photo_157
+  - first:
+      213: -3100112768121369374
+    second: Blood-Splatter-PNG-Photo_158
+  - first:
+      213: 3475904123791735522
+    second: Blood-Splatter-PNG-Photo_159
+  - first:
+      213: 9025922000696775716
+    second: Blood-Splatter-PNG-Photo_160
+  - first:
+      213: -4825167601282859343
+    second: Blood-Splatter-PNG-Photo_161
+  - first:
+      213: 365636451571243782
+    second: Blood-Splatter-PNG-Photo_162
+  - first:
+      213: -1969084083964592144
+    second: Blood-Splatter-PNG-Photo_163
+  - first:
+      213: -6224916474803070220
+    second: Blood-Splatter-PNG-Photo_164
+  - first:
+      213: 9104332542024433954
+    second: Blood-Splatter-PNG-Photo_165
+  - first:
+      213: 3307943585144284153
+    second: Blood-Splatter-PNG-Photo_166
+  - first:
+      213: 8309969691810551315
+    second: Blood-Splatter-PNG-Photo_167
+  - first:
+      213: 3015300779289519041
+    second: Blood-Splatter-PNG-Photo_168
+  - first:
+      213: -6462278761568406519
+    second: Blood-Splatter-PNG-Photo_169
+  - first:
+      213: -2342159298881722956
+    second: Blood-Splatter-PNG-Photo_170
+  - first:
+      213: -3260960182625216941
+    second: Blood-Splatter-PNG-Photo_171
+  - first:
+      213: -7564814006721717202
+    second: Blood-Splatter-PNG-Photo_172
+  - first:
+      213: 8464252412401195862
+    second: Blood-Splatter-PNG-Photo_173
+  - first:
+      213: -7797960349578761312
+    second: Blood-Splatter-PNG-Photo_174
+  - first:
+      213: 8955932210539895339
+    second: Blood-Splatter-PNG-Photo_175
+  - first:
+      213: -2061654671975138360
+    second: Blood-Splatter-PNG-Photo_176
+  - first:
+      213: 6267273236156423177
+    second: Blood-Splatter-PNG-Photo_177
+  - first:
+      213: -8129714544915842303
+    second: Blood-Splatter-PNG-Photo_178
+  - first:
+      213: 8711719575604308553
+    second: Blood-Splatter-PNG-Photo_179
+  - first:
+      213: -3566919876915099169
+    second: Blood-Splatter-PNG-Photo_180
+  - first:
+      213: -7024966299001113913
+    second: Blood-Splatter-PNG-Photo_181
+  - first:
+      213: 2639461391102531284
+    second: Blood-Splatter-PNG-Photo_182
+  - first:
+      213: 6594880579585195954
+    second: Blood-Splatter-PNG-Photo_183
+  - first:
+      213: 8910082389757228696
+    second: Blood-Splatter-PNG-Photo_184
+  - first:
+      213: -286117161300131867
+    second: Blood-Splatter-PNG-Photo_185
+  - first:
+      213: 4205802965112282426
+    second: Blood-Splatter-PNG-Photo_186
+  - first:
+      213: -4865332764783146669
+    second: Blood-Splatter-PNG-Photo_187
+  - first:
+      213: 3077221259579275400
+    second: Blood-Splatter-PNG-Photo_188
+  - first:
+      213: -8775392366554148425
+    second: Blood-Splatter-PNG-Photo_189
+  - first:
+      213: -3933508472881692738
+    second: Blood-Splatter-PNG-Photo_190
+  - first:
+      213: 4125473295960944966
+    second: Blood-Splatter-PNG-Photo_191
+  - first:
+      213: -1379143891394629334
+    second: Blood-Splatter-PNG-Photo_192
+  - first:
+      213: 7043825368491177323
+    second: Blood-Splatter-PNG-Photo_193
+  - first:
+      213: 5956814781882338440
+    second: Blood-Splatter-PNG-Photo_194
+  - first:
+      213: -8817411535814072582
+    second: Blood-Splatter-PNG-Photo_195
+  - first:
+      213: -1804027909828523017
+    second: Blood-Splatter-PNG-Photo_196
+  - first:
+      213: 4818874159827538380
+    second: Blood-Splatter-PNG-Photo_197
+  - first:
+      213: -7081500407617482827
+    second: Blood-Splatter-PNG-Photo_198
+  - first:
+      213: -2528871588458980458
+    second: Blood-Splatter-PNG-Photo_199
+  - first:
+      213: 8311383170166009702
+    second: Blood-Splatter-PNG-Photo_200
+  - first:
+      213: 1081676502189035401
+    second: Blood-Splatter-PNG-Photo_201
+  - first:
+      213: -5760815392723861983
+    second: Blood-Splatter-PNG-Photo_202
+  - first:
+      213: 2998643431644363846
+    second: Blood-Splatter-PNG-Photo_203
+  - first:
+      213: -4932511153909463504
+    second: Blood-Splatter-PNG-Photo_204
+  - first:
+      213: -7411908363073466111
+    second: Blood-Splatter-PNG-Photo_205
+  - first:
+      213: 8587530403150212199
+    second: Blood-Splatter-PNG-Photo_206
+  - first:
+      213: -4632126019431937696
+    second: Blood-Splatter-PNG-Photo_207
+  - first:
+      213: 2523573681179177661
+    second: Blood-Splatter-PNG-Photo_208
+  - first:
+      213: 7322866209022641679
+    second: Blood-Splatter-PNG-Photo_209
+  - first:
+      213: -5441218763673205801
+    second: Blood-Splatter-PNG-Photo_210
+  - first:
+      213: 5235581167697607203
+    second: Blood-Splatter-PNG-Photo_211
+  - first:
+      213: 8557297155323967700
+    second: Blood-Splatter-PNG-Photo_212
+  - first:
+      213: -4812535944211590809
+    second: Blood-Splatter-PNG-Photo_213
+  - first:
+      213: 378364227944760601
+    second: Blood-Splatter-PNG-Photo_214
+  - first:
+      213: -6042088494961233404
+    second: Blood-Splatter-PNG-Photo_215
+  - first:
+      213: -8036396054792587850
+    second: Blood-Splatter-PNG-Photo_216
+  - first:
+      213: -625202003149167274
+    second: Blood-Splatter-PNG-Photo_217
+  - first:
+      213: -4928879709739364124
+    second: Blood-Splatter-PNG-Photo_218
+  - first:
+      213: -8744672122448985325
+    second: Blood-Splatter-PNG-Photo_219
+  - first:
+      213: -6518827242254875347
+    second: Blood-Splatter-PNG-Photo_220
+  - first:
+      213: 3686177770646305335
+    second: Blood-Splatter-PNG-Photo_221
+  - first:
+      213: -4927074331805647043
+    second: Blood-Splatter-PNG-Photo_222
+  - first:
+      213: -119210194014244342
+    second: Blood-Splatter-PNG-Photo_223
+  - first:
+      213: 3363561715785012211
+    second: Blood-Splatter-PNG-Photo_224
+  - first:
+      213: 5629450241556429000
+    second: Blood-Splatter-PNG-Photo_225
+  - first:
+      213: 7881429743008276364
+    second: Blood-Splatter-PNG-Photo_226
+  - first:
+      213: 8599326858956004389
+    second: Blood-Splatter-PNG-Photo_227
+  - first:
+      213: -1247602307071025687
+    second: Blood-Splatter-PNG-Photo_228
+  - first:
+      213: 4390139855771170931
+    second: Blood-Splatter-PNG-Photo_229
+  - first:
+      213: 627830302234893589
+    second: Blood-Splatter-PNG-Photo_230
+  - first:
+      213: -7044584375190892938
+    second: Blood-Splatter-PNG-Photo_231
+  - first:
+      213: 134932145694821465
+    second: Blood-Splatter-PNG-Photo_232
+  - first:
+      213: 4975247759723460274
+    second: Blood-Splatter-PNG-Photo_233
+  - first:
+      213: -7213473331765197631
+    second: Blood-Splatter-PNG-Photo_234
+  - first:
+      213: -2959634643945322813
+    second: Blood-Splatter-PNG-Photo_235
+  - first:
+      213: 532774872383080630
+    second: Blood-Splatter-PNG-Photo_236
+  - first:
+      213: -6462867693649075
+    second: Blood-Splatter-PNG-Photo_237
+  - first:
+      213: -2660884719517127528
+    second: Blood-Splatter-PNG-Photo_238
+  - first:
+      213: 1047784570855556034
+    second: Blood-Splatter-PNG-Photo_239
+  - first:
+      213: 2101027956251495659
+    second: Blood-Splatter-PNG-Photo_240
+  - first:
+      213: 693297527222538001
+    second: Blood-Splatter-PNG-Photo_241
+  - first:
+      213: 4769618082083652138
+    second: Blood-Splatter-PNG-Photo_242
+  - first:
+      213: 1281233200169500381
+    second: Blood-Splatter-PNG-Photo_243
+  - first:
+      213: 8584990050051590732
+    second: Blood-Splatter-PNG-Photo_244
+  - first:
+      213: 8867060892712019273
+    second: Blood-Splatter-PNG-Photo_245
+  - first:
+      213: 7659437989600332148
+    second: Blood-Splatter-PNG-Photo_246
+  - first:
+      213: -8661385374177518704
+    second: Blood-Splatter-PNG-Photo_247
+  - first:
+      213: -5871147208072410216
+    second: Blood-Splatter-PNG-Photo_248
+  - first:
+      213: -8246727733233412849
+    second: Blood-Splatter-PNG-Photo_249
+  - first:
+      213: -2716077700719413996
+    second: Blood-Splatter-PNG-Photo_250
+  - first:
+      213: 2754712127163531636
+    second: Blood-Splatter-PNG-Photo_251
+  - first:
+      213: 9004757778340586245
+    second: Blood-Splatter-PNG-Photo_252
+  - first:
+      213: -7489643825506291157
+    second: Blood-Splatter-PNG-Photo_253
+  - first:
+      213: -5888150185123034455
+    second: Blood-Splatter-PNG-Photo_254
+  - first:
+      213: 2877128878854277105
+    second: Blood-Splatter-PNG-Photo_255
+  - first:
+      213: 7803759312389492234
+    second: Blood-Splatter-PNG-Photo_256
+  - first:
+      213: 6543573139796973685
+    second: Blood-Splatter-PNG-Photo_257
+  - first:
+      213: 1425070420298905867
+    second: Blood-Splatter-PNG-Photo_258
+  - first:
+      213: -964109234544046437
+    second: Blood-Splatter-PNG-Photo_259
+  - first:
+      213: -9103543545071450669
+    second: Blood-Splatter-PNG-Photo_260
+  - first:
+      213: -2201763959095499358
+    second: Blood-Splatter-PNG-Photo_261
+  - first:
+      213: -4098374413973398352
+    second: Blood-Splatter-PNG-Photo_262
+  - first:
+      213: 218014408604846447
+    second: Blood-Splatter-PNG-Photo_263
+  - first:
+      213: 7521865274590218933
+    second: Blood-Splatter-PNG-Photo_264
+  - first:
+      213: -1729894915045942860
+    second: Blood-Splatter-PNG-Photo_265
+  - first:
+      213: -1444683190210972323
+    second: Blood-Splatter-PNG-Photo_266
+  - first:
+      213: 3244157369818419317
+    second: Blood-Splatter-PNG-Photo_267
+  - first:
+      213: 4608898570394679628
+    second: Blood-Splatter-PNG-Photo_268
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_0
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 602
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97adb6c074faba670800000000000000
+      internalID: 8551121037178952313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_1
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 578
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d211917b561df8f0800000000000000
+      internalID: -505223001192459564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 565
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b23287d4ee91310800000000000000
+      internalID: 1376393177633860487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_3
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 20
+        width: 463
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6734008647d3725c0800000000000000
+      internalID: -4240352953975684234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_4
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 551
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f769944f2d446af70800000000000000
+      internalID: 9198114961783101055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_5
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 550
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c77fbc3edd3570800000000000000
+      internalID: 8448152828508621137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_6
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d14fefdea5d9bee0800000000000000
+      internalID: -1244728874933206567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 504
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f607377aa836d30800000000000000
+      internalID: 4423531710808878942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 495
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b932638603972a0800000000000000
+      internalID: -6739302143240201422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 475
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740bbbffcee884230800000000000000
+      internalID: 3623303048773480519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 479
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4ecb1d142162260800000000000000
+      internalID: 7072360338732934336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 464
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd457dc1a5ca03c90800000000000000
+      internalID: -7192059101879773989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 470
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8da1deb696081b0800000000000000
+      internalID: -5656405219716966231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_13
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 468
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a321e3db61900a0800000000000000
+      internalID: -6914970750804673938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 458
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bce1ca8b00c54b0800000000000000
+      internalID: -5450480655863461053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_15
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 451
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d90606c13ad24600800000000000000
+      internalID: 451162820001008083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_16
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 454
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed6b5809618cf260800000000000000
+      internalID: 7132718197959781870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf12f8950aa0ff790800000000000000
+      internalID: -7494259571107618308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 445
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8d456b2709bfdd0800000000000000
+      internalID: -2451206749813417755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 441
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678d7321215bf41f0800000000000000
+      internalID: -1058428298189088650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_20
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 444
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89df6893fca604c80800000000000000
+      internalID: -8340549071634236008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 437
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeec2fba3f7a2980800000000000000
+      internalID: -8562891851199353175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_22
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 386
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a79ad4d4d58db8f0800000000000000
+      internalID: -523114832554453084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_23
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1568b68da9fb373f0800000000000000
+      internalID: -904168428394543535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 444
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f134ddcb596069760800000000000000
+      internalID: 7464160672601686815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_25
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 442
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d11c03a8fb6170800000000000000
+      internalID: 8172899327959749273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 433
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f6b2fabb576db00800000000000000
+      internalID: 852998628391481096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dece499eeed1b9e80800000000000000
+      internalID: -8170904186975359763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 431
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056e50b87c17ac970800000000000000
+      internalID: 8775951925729683024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 430
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f87aa9b1ed083c0800000000000000
+      internalID: -4359240229154484370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_30
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 431
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d3a8bfed4a91c20800000000000000
+      internalID: 3177752289696431402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_31
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 389
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0751fee7df477f50800000000000000
+      internalID: 6879054744677078797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_32
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 429
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d969c0d58b7972e0800000000000000
+      internalID: -2127533534292121129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_33
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a3e33d3974f19c0800000000000000
+      internalID: -3954363247578170825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 428
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6971b78051e900800000000000000
+      internalID: 711938759829580300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 427
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43bf7bb05a86b9c0800000000000000
+      internalID: -3911787146976971953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 418
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170687abcb3761470800000000000000
+      internalID: 8365000612306772081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_37
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 422
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3935f27b31ddbec0800000000000000
+      internalID: -3549450878036133573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_38
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 412
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb81b341121452ee0800000000000000
+      internalID: -1286550508215265093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 427
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78589b94324851690800000000000000
+      internalID: -7632048706413820537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_40
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 427
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38580e2b64a28f70800000000000000
+      internalID: 9188086970029987900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 415
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eb1953636de5370800000000000000
+      internalID: 8313317490487836221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 418
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8941d286fe6739e20800000000000000
+      internalID: 3356156917938197656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 417
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dd034198a1e15c0800000000000000
+      internalID: -4242924622884840097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_44
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 404
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0ef293e87471660800000000000000
+      internalID: 7356427192503361732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_45
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 416
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153c9916970b5d9c0800000000000000
+      internalID: -3903019466671668399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 405
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73c1a05d55e4c5b0800000000000000
+      internalID: -5348898268461808772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_47
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 410
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d874712463ecc450800000000000000
+      internalID: 6110508813632436434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_48
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 409
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c83b9d4443a10370800000000000000
+      internalID: 8287084303093545157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 400
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89587573e9e109080800000000000000
+      internalID: -9182805975326292584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 399
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b7a83be207509a0800000000000000
+      internalID: -6267479960533173417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 395
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa8a885e40739420800000000000000
+      internalID: 2635573688737106681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_52
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 393
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f8f0b34730b970800000000000000
+      internalID: 8768569238361797028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_53
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 396
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94465cba761075030800000000000000
+      internalID: 3483254381569467465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_54
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 394
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96a6acad3ac62e90800000000000000
+      internalID: -7050725800363514214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 388
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c99599bb6bae1590800000000000000
+      internalID: -7701529833593529912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_56
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 390
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aedf399d548c9220800000000000000
+      internalID: 2494013831194336932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_57
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222eafa047ba6ddb0800000000000000
+      internalID: -4767434640636321246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_58
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6299037693d122710800000000000000
+      internalID: 1666926944462084390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_59
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 375
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ba1ef98be359ff0800000000000000
+      internalID: -30048859830768833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_60
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 380
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f30fb57672b730800000000000000
+      internalID: 4013400466028491036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_61
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bc8425657e0e340800000000000000
+      internalID: 4891163553258064781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_62
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 376
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973a061206fcae120800000000000000
+      internalID: 2443993759585706873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9c6801e0b4c3290800000000000000
+      internalID: -7909364321790539353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 370
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf462b2a4218b4f0800000000000000
+      internalID: -812879622979563588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 353
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c379448387085eaf0800000000000000
+      internalID: -367746540732377284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_66
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 170
+        width: 615
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5abf8e205359350800000000000000
+      internalID: 6022778363292919210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_67
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 368
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d47520d7b66600800000000000000
+      internalID: 461258116461548709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_68
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9679008e95735350800000000000000
+      internalID: 6004272051828389533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_69
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 366
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e6b26fd05ae3760800000000000000
+      internalID: 7439565113845837372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_70
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 363
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d8c84a3259abd70800000000000000
+      internalID: 9059717580726242608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_71
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 359
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d105eeaa80def8860800000000000000
+      internalID: 7534501323097395229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 351
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bb1ddc632ea1a50800000000000000
+      internalID: 6492750537817176973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_73
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 353
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120e2c7754e3cde60800000000000000
+      internalID: 7988328307131342881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 338
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acbf6e7b5a8fd610800000000000000
+      internalID: 1648188114208799908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_75
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 349
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae570ab35cf3e510800000000000000
+      internalID: 1577381731043335840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 356
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff226acc94fc73ea0800000000000000
+      internalID: -5893013671518002433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 334
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353c183ef722f1340800000000000000
+      internalID: 4836622457492325203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_78
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 335
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385406f7dafdc4c0800000000000000
+      internalID: -4265477466597599170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_79
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 332
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb8ce80505124dd0800000000000000
+      internalID: -2503415331495834688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_80
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 338
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684dd1d2d126d9c90800000000000000
+      internalID: -7161459954998717306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_81
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 327
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68236c3c91589acf0800000000000000
+      internalID: -240514759382388090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 322
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86372212666aea710800000000000000
+      internalID: 1706484266392777576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_83
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 323
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c8efdbe0ffbbda0800000000000000
+      internalID: -5927864045720925125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 301
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7be84939fdb0940800000000000000
+      internalID: 5263546414458124222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_85
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 315
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f919c55d3f79b20800000000000000
+      internalID: 3141247362820841269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_86
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 320
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9522496f75fc67030800000000000000
+      internalID: 3492206537778405977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_87
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 318
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081f2cdc73fb53b50800000000000000
+      internalID: 6572369477613318528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_88
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 297
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0f0396b0fb93cd0800000000000000
+      internalID: -2577819255962537806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_89
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 287
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7ef7b97e314e8e0800000000000000
+      internalID: -1665184076753016879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_90
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 300
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087355966c735b220800000000000000
+      internalID: 2500966493384423296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf0c3b97993fec0800000000000000
+      internalID: -3534312534569845778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_92
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 288
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a0aaf8e1e3e0b20800000000000000
+      internalID: 3102485494285077119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_93
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 291
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118b3645e82c65150800000000000000
+      internalID: 5861085881626245137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 290
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee27e2c20760c1e70800000000000000
+      internalID: 9087145226974163694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 258
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e29d9f345ad87e0800000000000000
+      internalID: -1761570167858844065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 274
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec59c2057bfc4fd0800000000000000
+      internalID: -2356232025045115678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_97
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 276
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e74d3eca1c810a0800000000000000
+      internalID: -6910560679899136508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_98
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 273
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe01ae1c9279950800000000000000
+      internalID: 6455674503691300838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_99
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 277
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc8b498a189cebf0800000000000000
+      internalID: -293692635945923339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_100
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 274
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee3e29c520ef4f80800000000000000
+      internalID: -8120025150232051989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_101
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 279
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a028b1bbde0eef410800000000000000
+      internalID: 1512893836494078474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_102
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 266
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d4fc963d873c950800000000000000
+      internalID: 6468146339242790281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_103
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 258
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9143bfd9890888af0800000000000000
+      internalID: -393923574421048295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 231
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01148fcf60747cf10800000000000000
+      internalID: 2289877030880690448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_105
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 256
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e480abb05745d5a90800000000000000
+      internalID: -7323604557349910450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_106
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 242
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccae233b5ba761ea0800000000000000
+      internalID: -5902395340808328500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_107
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992652e8f3909c7d0800000000000000
+      internalID: -2897774716663799143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_108
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a0ae199891a440800000000000000
+      internalID: 4945401649240778423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_109
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 246
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0720ee1aba8a03b00800000000000000
+      internalID: 806329788408922736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_110
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 242
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f47722610c1fc0b0800000000000000
+      internalID: -5706311410587831054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_111
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 244
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ace5dff1693be430800000000000000
+      internalID: 3813204602566077603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_112
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 232
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7971dc0549ec110800000000000000
+      internalID: 1283126018606340042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_113
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 246
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d9523f4468849b0800000000000000
+      internalID: -5095675347674489533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_114
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1140a65e4a984e0800000000000000
+      internalID: -1978869256019504706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_115
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 238
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8280a61bf60e61370800000000000000
+      internalID: 8293062534171854888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_116
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 197
+        width: 101
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ea8091140a3d450800000000000000
+      internalID: 6112405320725212775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_117
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 235
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d37774d499107b0800000000000000
+      internalID: -5259754332601500380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_118
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 219
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f38552b3ae2618a0800000000000000
+      internalID: -6334824545243528207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_119
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db15bbae2481a2c30800000000000000
+      internalID: 4335304266982576573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_120
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 201
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4cd16ebe661990800000000000000
+      internalID: -7415617972454273712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_121
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199039d75cfc01650800000000000000
+      internalID: 6201685134011468177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_122
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca02f580c17ed720800000000000000
+      internalID: 2872858684003846851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_123
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 199
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db32d3308609e6490800000000000000
+      internalID: -7751099132252707907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_124
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 208
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dad2ad0d05b1f1b0800000000000000
+      internalID: -5624515391941059882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_125
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 146
+        width: 133
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82c00942c870eba0800000000000000
+      internalID: -6061712322596912501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_126
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 209
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3edadeb9cf6bd40800000000000000
+      internalID: 5599940933319517126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_127
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 196
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b677d1f7a6fb810800000000000000
+      internalID: 1783261071649762109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_128
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624384d33bc2c8160800000000000000
+      internalID: 7029042266757411878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_129
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 100
+        width: 228
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4c72826a0997610800000000000000
+      internalID: 1619484584329069744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_130
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 157
+        width: 104
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36239fe5c8c6a1230800000000000000
+      internalID: 3610317401435484771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_131
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 197
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a60e128d5bdad390800000000000000
+      internalID: -7792675010549774681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 169
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8437199df29b36010800000000000000
+      internalID: 1180991142465991496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_133
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 187
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a72e0e1f164c4f60800000000000000
+      internalID: 8019862135902185378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_134
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59327b18dc09a820800000000000000
+      internalID: 2929887154894158175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_135
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 183
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18685abed667dab0800000000000000
+      internalID: -4983401355867035617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_136
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f44d459017d3960800000000000000
+      internalID: 7583341632453627736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_137
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 190
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee7aded7aab5c8d0800000000000000
+      internalID: -2826647960943952149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_138
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 174
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc70249ab0a291e0800000000000000
+      internalID: -2192513345366491912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_139
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 177
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f4d7054191ce360800000000000000
+      internalID: 7200157479299010382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_140
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 120
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b67460cb4b3320800000000000000
+      internalID: 2538706104644712557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_141
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 176
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151c82e3ae0a5d90800000000000000
+      internalID: -7108352964807617249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082f524c81f1893e0800000000000000
+      internalID: -2046851839409393024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_143
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 176
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d2736da75eb3740800000000000000
+      internalID: 5132948516061523321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_144
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 161
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea5933c67d844590800000000000000
+      internalID: -7690866722420991255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_145
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 173
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e87cc1d324b1f100800000000000000
+      internalID: 140091129361889505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_146
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5797b5916d2bc5530800000000000000
+      internalID: 3845144814485731701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_147
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 153
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0c74f2ac492360800000000000000
+      internalID: 7145326546570186018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_148
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 158
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3237ffcdef7f470800000000000000
+      internalID: 8428485452779168729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_149
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 158
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11d9b82b914795e0800000000000000
+      internalID: -1902980182881742564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_150
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e8caa63f8cb2b60800000000000000
+      internalID: 7722486933849149033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_151
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 163
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909065efe3e39b000800000000000000
+      internalID: 52141310967417097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_152
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17ae844aec3f1870800000000000000
+      internalID: 8655703985699596060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_153
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 158
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6382e40dde47f0800000000000000
+      internalID: -626320285108049351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_154
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 152
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fabe8bf6bd01880800000000000000
+      internalID: -8642166412033675510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_155
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea385c7fd3e08260800000000000000
+      internalID: 7097923561739270881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_156
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 148
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77f2d82b38b6ba50800000000000000
+      internalID: 6536614473402349437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_157
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 148
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c09b14dbfeed650800000000000000
+      internalID: 6259704128222071869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_158
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 151
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec097cccdf2af4d0800000000000000
+      internalID: -3100112768121369374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_159
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 145
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eafbeb6264ec3030800000000000000
+      internalID: 3475904123791735522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_160
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 147
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4241aedfc34824d70800000000000000
+      internalID: 9025922000696775716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_161
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 144
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bebfc7a1af890db0800000000000000
+      internalID: -4825167601282859343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_162
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 143
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b96dc5a60031500800000000000000
+      internalID: 365636451571243782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_163
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 142
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff3a6255786ca4e0800000000000000
+      internalID: -1969084083964592144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_164
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 141
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fad2ea7277ac99a0800000000000000
+      internalID: -6224916474803070220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_165
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 141
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221456cc536195e70800000000000000
+      internalID: 9104332542024433954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_166
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 106
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ae891a2d28ed20800000000000000
+      internalID: 3307943585144284153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_167
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 145
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31651a61861f25370800000000000000
+      internalID: 8309969691810551315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_168
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 125
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3a280451088d920800000000000000
+      internalID: 3015300779289519041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_169
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 125
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904f92974bf5156a0800000000000000
+      internalID: -6462278761568406519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_170
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e6c6e68afe7fd0800000000000000
+      internalID: -2342159298881722956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_171
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 140
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3565eefbdfdbeb2d0800000000000000
+      internalID: -3260960182625216941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_172
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 136
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cd371bdb1640790800000000000000
+      internalID: -7564814006721717202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_173
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b9a6a39b0177570800000000000000
+      internalID: 8464252412401195862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_174
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 130
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abe6ce906418c390800000000000000
+      internalID: -7797960349578761312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 131
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a95b915ecd94c70800000000000000
+      internalID: 8955932210539895339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_176
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 129
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb56bbff78363e0800000000000000
+      internalID: -2061654671975138360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_177
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 16
+        width: 285
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c9a678dc3d9f650800000000000000
+      internalID: 6267273236156423177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_178
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 126
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf6f8c1b37d2f80800000000000000
+      internalID: -8129714544915842303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_179
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a26be1cce36e870800000000000000
+      internalID: 8711719575604308553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_180
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 18
+        width: 131
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd902323541cf7ec0800000000000000
+      internalID: -3566919876915099169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_181
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2b2f4fe5e428e90800000000000000
+      internalID: -7024966299001113913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_182
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 117
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d65607962041a420800000000000000
+      internalID: 2639461391102531284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_183
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 109
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf3c4a22f8b58b50800000000000000
+      internalID: 6594880579585195954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_184
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89671f0d9b8f6ab70800000000000000
+      internalID: 8910082389757228696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_185
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 122
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efff8c25f1870cf0800000000000000
+      internalID: -286117161300131867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_186
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 99
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d5dc273830e5a30800000000000000
+      internalID: 4205802965112282426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_187
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3590809c0adda7cb0800000000000000
+      internalID: -4865332764783146669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_188
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 108
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888b0888e6c74ba20800000000000000
+      internalID: 3077221259579275400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_189
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b19ddaf22b873680800000000000000
+      internalID: -8775392366554148425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_190
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb5e072ee5969c0800000000000000
+      internalID: -3933508472881692738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_191
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641bc10ea10a04930800000000000000
+      internalID: 4125473295960944966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_192
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21f54310fb4cdce0800000000000000
+      internalID: -1379143891394629334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_193
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 96
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b653dc45ad1b0c160800000000000000
+      internalID: 7043825368491177323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_194
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c84eacb7bdaa250800000000000000
+      internalID: 5956814781882338440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_195
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 101
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6ee51cce242a580800000000000000
+      internalID: -8817411535814072582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_196
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc7c59c2ec6f6e0800000000000000
+      internalID: -1804027909828523017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_197
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc154d1548410e240800000000000000
+      internalID: 4818874159827538380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_198
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 86
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf0d2f06e479bd90800000000000000
+      internalID: -7081500407617482827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_199
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 93
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b135750b4a7ecd0800000000000000
+      internalID: -2528871588458980458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_200
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fa7e925f6f75370800000000000000
+      internalID: 8311383170166009702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_201
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f4dda3c03e20f00800000000000000
+      internalID: 1081676502189035401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_202
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e77142ce87d00b0800000000000000
+      internalID: -5760815392723861983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_203
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 63
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c783740525d9920800000000000000
+      internalID: 2998643431644363846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_204
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 68
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03603943d333c8bb0800000000000000
+      internalID: -4932511153909463504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_205
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 60
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101524f1d9c932990800000000000000
+      internalID: -7411908363073466111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_206
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 60
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca2a927690d2770800000000000000
+      internalID: 8587530403150212199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_207
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 55
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0694ae86de167bfb0800000000000000
+      internalID: -4632126019431937696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_208
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2b53f74e8850320800000000000000
+      internalID: 2523573681179177661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_209
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f068186d40c00a560800000000000000
+      internalID: 7322866209022641679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_210
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 55
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3811efc58ec74b0800000000000000
+      internalID: -5441218763673205801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_211
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 37
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a375d255588a840800000000000000
+      internalID: 5235581167697607203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_212
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 56
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8bb8c9c60a1c670800000000000000
+      internalID: 8557297155323967700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_213
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 51
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76118708e00763db0800000000000000
+      internalID: -4812535944211590809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_214
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915cc5ab248304500800000000000000
+      internalID: 378364227944760601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_215
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 37
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4027c54b680362ca0800000000000000
+      internalID: -6042088494961233404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_216
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 58
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5bcb7ed5cf87090800000000000000
+      internalID: -8036396054792587850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_217
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 56
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6556e613716d257f0800000000000000
+      internalID: -625202003149167274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_218
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 17
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0da50b40a199bb0800000000000000
+      internalID: -4928879709739364124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_219
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313ca20390fa4a680800000000000000
+      internalID: -8744672122448985325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_220
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 47
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25424159297885a0800000000000000
+      internalID: -6518827242254875347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_221
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a7056f62fe72330800000000000000
+      internalID: 3686177770646305335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_222
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f77cefff38f9bb0800000000000000
+      internalID: -4927074331805647043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_223
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 46
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02fc2cc5fa785ef0800000000000000
+      internalID: -119210194014244342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_224
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f318714f85cdae20800000000000000
+      internalID: 3363561715785012211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_225
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 46
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c835b82b23df1e40800000000000000
+      internalID: 5629450241556429000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_226
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fd43af796706d60800000000000000
+      internalID: 7881429743008276364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_227
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 42
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c5c8f8732f65770800000000000000
+      internalID: 8599326858956004389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_228
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd212df40afaee0800000000000000
+      internalID: -1247602307071025687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_229
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 38
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378768950f8ecec30800000000000000
+      internalID: 4390139855771170931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_230
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 46
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ddfef555086b800800000000000000
+      internalID: 627830302234893589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_231
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eca76a5db9c3e90800000000000000
+      internalID: -7044584375190892938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_232
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 39
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ccbe452106fd100800000000000000
+      internalID: 134932145694821465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_233
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6ffdb3a71ab0540800000000000000
+      internalID: 4975247759723460274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_234
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4c16f293894eb90800000000000000
+      internalID: -7213473331765197631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_235
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 43
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c603bed8f34de6d0800000000000000
+      internalID: -2959634643945322813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_236
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c5a57cebc46700800000000000000
+      internalID: 532774872383080630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_237
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43c3ea5e0a09eff0800000000000000
+      internalID: -6462867693649075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_238
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89caae01273a21bd0800000000000000
+      internalID: -2660884719517127528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_239
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c30bfa048a7a8e00800000000000000
+      internalID: 1047784570855556034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_240
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec09836bc9582d10800000000000000
+      internalID: 2101027956251495659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_241
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 29
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f81c18d661f9900800000000000000
+      internalID: 693297527222538001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_242
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 28
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2240e80066113240800000000000000
+      internalID: 4769618082083652138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_243
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 28
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde3a8aaecad7c110800000000000000
+      internalID: 1281233200169500381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_244
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a869d17f2042770800000000000000
+      internalID: 8584990050051590732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_245
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 32
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945abd7f6e02e0b70800000000000000
+      internalID: 8867060892712019273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_246
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4798245254acb4a60800000000000000
+      internalID: 7659437989600332148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_247
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b926564e39cc780800000000000000
+      internalID: -8661385374177518704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_248
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b41de88be758ea0800000000000000
+      internalID: -5871147208072410216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_249
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f059245d1dcbd8d80800000000000000
+      internalID: -8246727733233412849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_250
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415724ab8bd8e4ad0800000000000000
+      internalID: -2716077700719413996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_251
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 32
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4710b06a514ba3620800000000000000
+      internalID: 2754712127163531636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_252
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5032d6a7d7357fc70800000000000000
+      internalID: 9004757778340586245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_253
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ff7e5f907f0890800000000000000
+      internalID: -7489643825506291157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_254
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 23
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa47977a96194ea0800000000000000
+      internalID: -5888150185123034455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_255
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7802db87d9de720800000000000000
+      internalID: 2877128878854277105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_256
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e4f9f9fb58c4c60800000000000000
+      internalID: 7803759312389492234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_257
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578d26fe9117fca50800000000000000
+      internalID: 6543573139796973685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_258
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 27
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0935d53ffdd6c310800000000000000
+      internalID: 1425070420298905867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_259
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e045e52cbce92f0800000000000000
+      internalID: -964109234544046437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_260
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d547bed067b9a180800000000000000
+      internalID: -9103543545071450669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_261
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5eada3853c171e0800000000000000
+      internalID: -2201763959095499358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_262
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcd0924f26af17c0800000000000000
+      internalID: -4098374413973398352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_263
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f690fc413fa860300800000000000000
+      internalID: 218014408604846447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_264
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bacb4c5d98036860800000000000000
+      internalID: 7521865274590218933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_265
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b99ee97dbd2ef7e0800000000000000
+      internalID: -1729894915045942860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_266
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d553f72fa4473fbe0800000000000000
+      internalID: -1444683190210972323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_267
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5701e7780ff850d20800000000000000
+      internalID: 3244157369818419317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-Splatter-PNG-Photo_268
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c493e2ea4d816ff30800000000000000
+      internalID: 4608898570394679628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blood-Splatter-PNG-Photo_0: 8551121037178952313
+      Blood-Splatter-PNG-Photo_1: -505223001192459564
+      Blood-Splatter-PNG-Photo_10: 7072360338732934336
+      Blood-Splatter-PNG-Photo_100: -8120025150232051989
+      Blood-Splatter-PNG-Photo_101: 1512893836494078474
+      Blood-Splatter-PNG-Photo_102: 6468146339242790281
+      Blood-Splatter-PNG-Photo_103: -393923574421048295
+      Blood-Splatter-PNG-Photo_104: 2289877030880690448
+      Blood-Splatter-PNG-Photo_105: -7323604557349910450
+      Blood-Splatter-PNG-Photo_106: -5902395340808328500
+      Blood-Splatter-PNG-Photo_107: -2897774716663799143
+      Blood-Splatter-PNG-Photo_108: 4945401649240778423
+      Blood-Splatter-PNG-Photo_109: 806329788408922736
+      Blood-Splatter-PNG-Photo_11: -7192059101879773989
+      Blood-Splatter-PNG-Photo_110: -5706311410587831054
+      Blood-Splatter-PNG-Photo_111: 3813204602566077603
+      Blood-Splatter-PNG-Photo_112: 1283126018606340042
+      Blood-Splatter-PNG-Photo_113: -5095675347674489533
+      Blood-Splatter-PNG-Photo_114: -1978869256019504706
+      Blood-Splatter-PNG-Photo_115: 8293062534171854888
+      Blood-Splatter-PNG-Photo_116: 6112405320725212775
+      Blood-Splatter-PNG-Photo_117: -5259754332601500380
+      Blood-Splatter-PNG-Photo_118: -6334824545243528207
+      Blood-Splatter-PNG-Photo_119: 4335304266982576573
+      Blood-Splatter-PNG-Photo_12: -5656405219716966231
+      Blood-Splatter-PNG-Photo_120: -7415617972454273712
+      Blood-Splatter-PNG-Photo_121: 6201685134011468177
+      Blood-Splatter-PNG-Photo_122: 2872858684003846851
+      Blood-Splatter-PNG-Photo_123: -7751099132252707907
+      Blood-Splatter-PNG-Photo_124: -5624515391941059882
+      Blood-Splatter-PNG-Photo_125: -6061712322596912501
+      Blood-Splatter-PNG-Photo_126: 5599940933319517126
+      Blood-Splatter-PNG-Photo_127: 1783261071649762109
+      Blood-Splatter-PNG-Photo_128: 7029042266757411878
+      Blood-Splatter-PNG-Photo_129: 1619484584329069744
+      Blood-Splatter-PNG-Photo_13: -6914970750804673938
+      Blood-Splatter-PNG-Photo_130: 3610317401435484771
+      Blood-Splatter-PNG-Photo_131: -7792675010549774681
+      Blood-Splatter-PNG-Photo_132: 1180991142465991496
+      Blood-Splatter-PNG-Photo_133: 8019862135902185378
+      Blood-Splatter-PNG-Photo_134: 2929887154894158175
+      Blood-Splatter-PNG-Photo_135: -4983401355867035617
+      Blood-Splatter-PNG-Photo_136: 7583341632453627736
+      Blood-Splatter-PNG-Photo_137: -2826647960943952149
+      Blood-Splatter-PNG-Photo_138: -2192513345366491912
+      Blood-Splatter-PNG-Photo_139: 7200157479299010382
+      Blood-Splatter-PNG-Photo_14: -5450480655863461053
+      Blood-Splatter-PNG-Photo_140: 2538706104644712557
+      Blood-Splatter-PNG-Photo_141: -7108352964807617249
+      Blood-Splatter-PNG-Photo_142: -2046851839409393024
+      Blood-Splatter-PNG-Photo_143: 5132948516061523321
+      Blood-Splatter-PNG-Photo_144: -7690866722420991255
+      Blood-Splatter-PNG-Photo_145: 140091129361889505
+      Blood-Splatter-PNG-Photo_146: 3845144814485731701
+      Blood-Splatter-PNG-Photo_147: 7145326546570186018
+      Blood-Splatter-PNG-Photo_148: 8428485452779168729
+      Blood-Splatter-PNG-Photo_149: -1902980182881742564
+      Blood-Splatter-PNG-Photo_15: 451162820001008083
+      Blood-Splatter-PNG-Photo_150: 7722486933849149033
+      Blood-Splatter-PNG-Photo_151: 52141310967417097
+      Blood-Splatter-PNG-Photo_152: 8655703985699596060
+      Blood-Splatter-PNG-Photo_153: -626320285108049351
+      Blood-Splatter-PNG-Photo_154: -8642166412033675510
+      Blood-Splatter-PNG-Photo_155: 7097923561739270881
+      Blood-Splatter-PNG-Photo_156: 6536614473402349437
+      Blood-Splatter-PNG-Photo_157: 6259704128222071869
+      Blood-Splatter-PNG-Photo_158: -3100112768121369374
+      Blood-Splatter-PNG-Photo_159: 3475904123791735522
+      Blood-Splatter-PNG-Photo_16: 7132718197959781870
+      Blood-Splatter-PNG-Photo_160: 9025922000696775716
+      Blood-Splatter-PNG-Photo_161: -4825167601282859343
+      Blood-Splatter-PNG-Photo_162: 365636451571243782
+      Blood-Splatter-PNG-Photo_163: -1969084083964592144
+      Blood-Splatter-PNG-Photo_164: -6224916474803070220
+      Blood-Splatter-PNG-Photo_165: 9104332542024433954
+      Blood-Splatter-PNG-Photo_166: 3307943585144284153
+      Blood-Splatter-PNG-Photo_167: 8309969691810551315
+      Blood-Splatter-PNG-Photo_168: 3015300779289519041
+      Blood-Splatter-PNG-Photo_169: -6462278761568406519
+      Blood-Splatter-PNG-Photo_17: -7494259571107618308
+      Blood-Splatter-PNG-Photo_170: -2342159298881722956
+      Blood-Splatter-PNG-Photo_171: -3260960182625216941
+      Blood-Splatter-PNG-Photo_172: -7564814006721717202
+      Blood-Splatter-PNG-Photo_173: 8464252412401195862
+      Blood-Splatter-PNG-Photo_174: -7797960349578761312
+      Blood-Splatter-PNG-Photo_175: 8955932210539895339
+      Blood-Splatter-PNG-Photo_176: -2061654671975138360
+      Blood-Splatter-PNG-Photo_177: 6267273236156423177
+      Blood-Splatter-PNG-Photo_178: -8129714544915842303
+      Blood-Splatter-PNG-Photo_179: 8711719575604308553
+      Blood-Splatter-PNG-Photo_18: -2451206749813417755
+      Blood-Splatter-PNG-Photo_180: -3566919876915099169
+      Blood-Splatter-PNG-Photo_181: -7024966299001113913
+      Blood-Splatter-PNG-Photo_182: 2639461391102531284
+      Blood-Splatter-PNG-Photo_183: 6594880579585195954
+      Blood-Splatter-PNG-Photo_184: 8910082389757228696
+      Blood-Splatter-PNG-Photo_185: -286117161300131867
+      Blood-Splatter-PNG-Photo_186: 4205802965112282426
+      Blood-Splatter-PNG-Photo_187: -4865332764783146669
+      Blood-Splatter-PNG-Photo_188: 3077221259579275400
+      Blood-Splatter-PNG-Photo_189: -8775392366554148425
+      Blood-Splatter-PNG-Photo_19: -1058428298189088650
+      Blood-Splatter-PNG-Photo_190: -3933508472881692738
+      Blood-Splatter-PNG-Photo_191: 4125473295960944966
+      Blood-Splatter-PNG-Photo_192: -1379143891394629334
+      Blood-Splatter-PNG-Photo_193: 7043825368491177323
+      Blood-Splatter-PNG-Photo_194: 5956814781882338440
+      Blood-Splatter-PNG-Photo_195: -8817411535814072582
+      Blood-Splatter-PNG-Photo_196: -1804027909828523017
+      Blood-Splatter-PNG-Photo_197: 4818874159827538380
+      Blood-Splatter-PNG-Photo_198: -7081500407617482827
+      Blood-Splatter-PNG-Photo_199: -2528871588458980458
+      Blood-Splatter-PNG-Photo_2: 1376393177633860487
+      Blood-Splatter-PNG-Photo_20: -8340549071634236008
+      Blood-Splatter-PNG-Photo_200: 8311383170166009702
+      Blood-Splatter-PNG-Photo_201: 1081676502189035401
+      Blood-Splatter-PNG-Photo_202: -5760815392723861983
+      Blood-Splatter-PNG-Photo_203: 2998643431644363846
+      Blood-Splatter-PNG-Photo_204: -4932511153909463504
+      Blood-Splatter-PNG-Photo_205: -7411908363073466111
+      Blood-Splatter-PNG-Photo_206: 8587530403150212199
+      Blood-Splatter-PNG-Photo_207: -4632126019431937696
+      Blood-Splatter-PNG-Photo_208: 2523573681179177661
+      Blood-Splatter-PNG-Photo_209: 7322866209022641679
+      Blood-Splatter-PNG-Photo_21: -8562891851199353175
+      Blood-Splatter-PNG-Photo_210: -5441218763673205801
+      Blood-Splatter-PNG-Photo_211: 5235581167697607203
+      Blood-Splatter-PNG-Photo_212: 8557297155323967700
+      Blood-Splatter-PNG-Photo_213: -4812535944211590809
+      Blood-Splatter-PNG-Photo_214: 378364227944760601
+      Blood-Splatter-PNG-Photo_215: -6042088494961233404
+      Blood-Splatter-PNG-Photo_216: -8036396054792587850
+      Blood-Splatter-PNG-Photo_217: -625202003149167274
+      Blood-Splatter-PNG-Photo_218: -4928879709739364124
+      Blood-Splatter-PNG-Photo_219: -8744672122448985325
+      Blood-Splatter-PNG-Photo_22: -523114832554453084
+      Blood-Splatter-PNG-Photo_220: -6518827242254875347
+      Blood-Splatter-PNG-Photo_221: 3686177770646305335
+      Blood-Splatter-PNG-Photo_222: -4927074331805647043
+      Blood-Splatter-PNG-Photo_223: -119210194014244342
+      Blood-Splatter-PNG-Photo_224: 3363561715785012211
+      Blood-Splatter-PNG-Photo_225: 5629450241556429000
+      Blood-Splatter-PNG-Photo_226: 7881429743008276364
+      Blood-Splatter-PNG-Photo_227: 8599326858956004389
+      Blood-Splatter-PNG-Photo_228: -1247602307071025687
+      Blood-Splatter-PNG-Photo_229: 4390139855771170931
+      Blood-Splatter-PNG-Photo_23: -904168428394543535
+      Blood-Splatter-PNG-Photo_230: 627830302234893589
+      Blood-Splatter-PNG-Photo_231: -7044584375190892938
+      Blood-Splatter-PNG-Photo_232: 134932145694821465
+      Blood-Splatter-PNG-Photo_233: 4975247759723460274
+      Blood-Splatter-PNG-Photo_234: -7213473331765197631
+      Blood-Splatter-PNG-Photo_235: -2959634643945322813
+      Blood-Splatter-PNG-Photo_236: 532774872383080630
+      Blood-Splatter-PNG-Photo_237: -6462867693649075
+      Blood-Splatter-PNG-Photo_238: -2660884719517127528
+      Blood-Splatter-PNG-Photo_239: 1047784570855556034
+      Blood-Splatter-PNG-Photo_24: 7464160672601686815
+      Blood-Splatter-PNG-Photo_240: 2101027956251495659
+      Blood-Splatter-PNG-Photo_241: 693297527222538001
+      Blood-Splatter-PNG-Photo_242: 4769618082083652138
+      Blood-Splatter-PNG-Photo_243: 1281233200169500381
+      Blood-Splatter-PNG-Photo_244: 8584990050051590732
+      Blood-Splatter-PNG-Photo_245: 8867060892712019273
+      Blood-Splatter-PNG-Photo_246: 7659437989600332148
+      Blood-Splatter-PNG-Photo_247: -8661385374177518704
+      Blood-Splatter-PNG-Photo_248: -5871147208072410216
+      Blood-Splatter-PNG-Photo_249: -8246727733233412849
+      Blood-Splatter-PNG-Photo_25: 8172899327959749273
+      Blood-Splatter-PNG-Photo_250: -2716077700719413996
+      Blood-Splatter-PNG-Photo_251: 2754712127163531636
+      Blood-Splatter-PNG-Photo_252: 9004757778340586245
+      Blood-Splatter-PNG-Photo_253: -7489643825506291157
+      Blood-Splatter-PNG-Photo_254: -5888150185123034455
+      Blood-Splatter-PNG-Photo_255: 2877128878854277105
+      Blood-Splatter-PNG-Photo_256: 7803759312389492234
+      Blood-Splatter-PNG-Photo_257: 6543573139796973685
+      Blood-Splatter-PNG-Photo_258: 1425070420298905867
+      Blood-Splatter-PNG-Photo_259: -964109234544046437
+      Blood-Splatter-PNG-Photo_26: 852998628391481096
+      Blood-Splatter-PNG-Photo_260: -9103543545071450669
+      Blood-Splatter-PNG-Photo_261: -2201763959095499358
+      Blood-Splatter-PNG-Photo_262: -4098374413973398352
+      Blood-Splatter-PNG-Photo_263: 218014408604846447
+      Blood-Splatter-PNG-Photo_264: 7521865274590218933
+      Blood-Splatter-PNG-Photo_265: -1729894915045942860
+      Blood-Splatter-PNG-Photo_266: -1444683190210972323
+      Blood-Splatter-PNG-Photo_267: 3244157369818419317
+      Blood-Splatter-PNG-Photo_268: 4608898570394679628
+      Blood-Splatter-PNG-Photo_27: -8170904186975359763
+      Blood-Splatter-PNG-Photo_28: 8775951925729683024
+      Blood-Splatter-PNG-Photo_29: -4359240229154484370
+      Blood-Splatter-PNG-Photo_3: -4240352953975684234
+      Blood-Splatter-PNG-Photo_30: 3177752289696431402
+      Blood-Splatter-PNG-Photo_31: 6879054744677078797
+      Blood-Splatter-PNG-Photo_32: -2127533534292121129
+      Blood-Splatter-PNG-Photo_33: -3954363247578170825
+      Blood-Splatter-PNG-Photo_34: 711938759829580300
+      Blood-Splatter-PNG-Photo_35: -3911787146976971953
+      Blood-Splatter-PNG-Photo_36: 8365000612306772081
+      Blood-Splatter-PNG-Photo_37: -3549450878036133573
+      Blood-Splatter-PNG-Photo_38: -1286550508215265093
+      Blood-Splatter-PNG-Photo_39: -7632048706413820537
+      Blood-Splatter-PNG-Photo_4: 9198114961783101055
+      Blood-Splatter-PNG-Photo_40: 9188086970029987900
+      Blood-Splatter-PNG-Photo_41: 8313317490487836221
+      Blood-Splatter-PNG-Photo_42: 3356156917938197656
+      Blood-Splatter-PNG-Photo_43: -4242924622884840097
+      Blood-Splatter-PNG-Photo_44: 7356427192503361732
+      Blood-Splatter-PNG-Photo_45: -3903019466671668399
+      Blood-Splatter-PNG-Photo_46: -5348898268461808772
+      Blood-Splatter-PNG-Photo_47: 6110508813632436434
+      Blood-Splatter-PNG-Photo_48: 8287084303093545157
+      Blood-Splatter-PNG-Photo_49: -9182805975326292584
+      Blood-Splatter-PNG-Photo_5: 8448152828508621137
+      Blood-Splatter-PNG-Photo_50: -6267479960533173417
+      Blood-Splatter-PNG-Photo_51: 2635573688737106681
+      Blood-Splatter-PNG-Photo_52: 8768569238361797028
+      Blood-Splatter-PNG-Photo_53: 3483254381569467465
+      Blood-Splatter-PNG-Photo_54: -7050725800363514214
+      Blood-Splatter-PNG-Photo_55: -7701529833593529912
+      Blood-Splatter-PNG-Photo_56: 2494013831194336932
+      Blood-Splatter-PNG-Photo_57: -4767434640636321246
+      Blood-Splatter-PNG-Photo_58: 1666926944462084390
+      Blood-Splatter-PNG-Photo_59: -30048859830768833
+      Blood-Splatter-PNG-Photo_6: -1244728874933206567
+      Blood-Splatter-PNG-Photo_60: 4013400466028491036
+      Blood-Splatter-PNG-Photo_61: 4891163553258064781
+      Blood-Splatter-PNG-Photo_62: 2443993759585706873
+      Blood-Splatter-PNG-Photo_63: -7909364321790539353
+      Blood-Splatter-PNG-Photo_64: -812879622979563588
+      Blood-Splatter-PNG-Photo_65: -367746540732377284
+      Blood-Splatter-PNG-Photo_66: 6022778363292919210
+      Blood-Splatter-PNG-Photo_67: 461258116461548709
+      Blood-Splatter-PNG-Photo_68: 6004272051828389533
+      Blood-Splatter-PNG-Photo_69: 7439565113845837372
+      Blood-Splatter-PNG-Photo_7: 4423531710808878942
+      Blood-Splatter-PNG-Photo_70: 9059717580726242608
+      Blood-Splatter-PNG-Photo_71: 7534501323097395229
+      Blood-Splatter-PNG-Photo_72: 6492750537817176973
+      Blood-Splatter-PNG-Photo_73: 7988328307131342881
+      Blood-Splatter-PNG-Photo_74: 1648188114208799908
+      Blood-Splatter-PNG-Photo_75: 1577381731043335840
+      Blood-Splatter-PNG-Photo_76: -5893013671518002433
+      Blood-Splatter-PNG-Photo_77: 4836622457492325203
+      Blood-Splatter-PNG-Photo_78: -4265477466597599170
+      Blood-Splatter-PNG-Photo_79: -2503415331495834688
+      Blood-Splatter-PNG-Photo_8: -6739302143240201422
+      Blood-Splatter-PNG-Photo_80: -7161459954998717306
+      Blood-Splatter-PNG-Photo_81: -240514759382388090
+      Blood-Splatter-PNG-Photo_82: 1706484266392777576
+      Blood-Splatter-PNG-Photo_83: -5927864045720925125
+      Blood-Splatter-PNG-Photo_84: 5263546414458124222
+      Blood-Splatter-PNG-Photo_85: 3141247362820841269
+      Blood-Splatter-PNG-Photo_86: 3492206537778405977
+      Blood-Splatter-PNG-Photo_87: 6572369477613318528
+      Blood-Splatter-PNG-Photo_88: -2577819255962537806
+      Blood-Splatter-PNG-Photo_89: -1665184076753016879
+      Blood-Splatter-PNG-Photo_9: 3623303048773480519
+      Blood-Splatter-PNG-Photo_90: 2500966493384423296
+      Blood-Splatter-PNG-Photo_91: -3534312534569845778
+      Blood-Splatter-PNG-Photo_92: 3102485494285077119
+      Blood-Splatter-PNG-Photo_93: 5861085881626245137
+      Blood-Splatter-PNG-Photo_94: 9087145226974163694
+      Blood-Splatter-PNG-Photo_95: -1761570167858844065
+      Blood-Splatter-PNG-Photo_96: -2356232025045115678
+      Blood-Splatter-PNG-Photo_97: -6910560679899136508
+      Blood-Splatter-PNG-Photo_98: 6455674503691300838
+      Blood-Splatter-PNG-Photo_99: -293692635945923339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
