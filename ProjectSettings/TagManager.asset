@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags:
   - StatValue
   - StatName
@@ -17,7 +17,7 @@ TagManager:
   - Enemy
   - Sword
   - Item
-  - 
+  - BG
   - 
   - 
   - 
@@ -64,3 +64,5 @@ TagManager:
   - name: FX
     uniqueID: 1515849559
     locked: 0
+  m_RenderingLayers:
+  - Default

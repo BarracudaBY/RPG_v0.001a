@@ -78,25 +78,25 @@
             2,
             1,
             1,
-            9,
-            6
+            8,
+            4
         ]
     },
     "equipmentId": [],
     "checkpoints": {
         "keys": [
-            "8d3adcc2-b4da-42b1-8959-5ac7afb01f3f",
-            "49972962-ab4f-4332-8ff8-656df73685c9"
+            "49972962-ab4f-4332-8ff8-656df73685c9",
+            "8d3adcc2-b4da-42b1-8959-5ac7afb01f3f"
         ],
         "values": [
             true,
             true
         ]
     },
-    "closestCheckpointId": "8d3adcc2-b4da-42b1-8959-5ac7afb01f3f",
-    "lostCurrencyX": -13.081696510314942,
-    "lostCurrencyY": -2.672929286956787,
-    "lostCurrencyAmount": 100,
+    "closestCheckpointId": "49972962-ab4f-4332-8ff8-656df73685c9",
+    "lostCurrencyX": 0.33480215072631838,
+    "lostCurrencyY": -9.392797470092774,
+    "lostCurrencyAmount": 200,
     "volumeSettings": {
         "keys": [
             "sfx",

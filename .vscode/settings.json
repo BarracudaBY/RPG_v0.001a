@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "RPG - Jailbreak_0.001a.sln"
+    "dotnet.defaultSolution": "RPG_v0.001a.sln"
 }
