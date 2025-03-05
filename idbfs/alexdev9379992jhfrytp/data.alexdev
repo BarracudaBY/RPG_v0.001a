@@ -85,8 +85,8 @@
     "equipmentId": [],
     "checkpoints": {
         "keys": [
-            "49972962-ab4f-4332-8ff8-656df73685c9",
-            "8d3adcc2-b4da-42b1-8959-5ac7afb01f3f"
+            "8d3adcc2-b4da-42b1-8959-5ac7afb01f3f",
+            "49972962-ab4f-4332-8ff8-656df73685c9"
         ],
         "values": [
             true,
@@ -94,9 +94,9 @@
         ]
     },
     "closestCheckpointId": "49972962-ab4f-4332-8ff8-656df73685c9",
-    "lostCurrencyX": 0.33480215072631838,
-    "lostCurrencyY": -9.392797470092774,
-    "lostCurrencyAmount": 200,
+    "lostCurrencyX": 10.250015258789063,
+    "lostCurrencyY": -2.67289400100708,
+    "lostCurrencyAmount": 0,
     "volumeSettings": {
         "keys": [
             "sfx",
